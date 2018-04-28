@@ -4,7 +4,6 @@ curl wttr.in/minneapolis > output.html
 clear
 cat output.html
 
-
 sleep 30
 
 clear
